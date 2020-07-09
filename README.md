@@ -34,6 +34,8 @@
 | [<img src="https://img.youtube.com/vi/cOO6wz1rZVY/0.jpg" width="90">](https://youtu.be/cOO6wz1rZVY) | Getting Started with GUN Data Types                     | ![YouTube Video Views](https://img.shields.io/youtube/views/cOO6wz1rZVY?style=flat-square) ![YouTube Video Likes](https://img.shields.io/youtube/likes/cOO6wz1rZVY?style=flat-square) |
 | [<img src="https://img.youtube.com/vi/68svY76thiQ/0.jpg" width="90">](https://youtu.be/68svY76thiQ) | Todo App Tutorial - 1 - Basic CRUD functions with GunDB | ![YouTube Video Views](https://img.shields.io/youtube/views/68svY76thiQ?style=flat-square) ![YouTube Video Likes](https://img.shields.io/youtube/likes/68svY76thiQ?style=flat-square) |
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Contributions
 
 Please feel free to fork & PR. You must maintain good, easy-to-read formatting. Don't forget to keep
