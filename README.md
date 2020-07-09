@@ -37,5 +37,6 @@
 ## Contributions
 
 Please feel free to fork & PR. You must maintain good, easy-to-read formatting. Don't forget to keep
-the table cells aligned and maintain trailing whitespace. I might actually make a nifty little CLI
-tool for adding entries to this page (And presumably others like it). Check back for that.
+the table cells aligned and maintain trailing whitespace. Best to turn off word-wrap when editing. I
+might actually make a nifty little CLI tool for adding entries to this page (And presumably others
+like it). Check back for that.
